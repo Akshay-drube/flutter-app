@@ -9,6 +9,7 @@ import subprocess
 import json
 import time
 
+
 app = Flask(__name__)
 sock = Sock(app)
 
